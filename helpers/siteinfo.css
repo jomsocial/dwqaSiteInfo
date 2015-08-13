@@ -1,0 +1,64 @@
+.site-info-panel{
+
+
+	padding:10px;
+
+
+	border:1px solid #5bc08c;
+
+
+}
+
+
+
+
+
+#site-info-tabs a{
+
+
+	color:#FFF!important;
+
+
+}
+
+
+
+
+
+#site-info-navigation{
+
+
+	background-color:#f7f7f7;
+
+
+}
+
+
+
+
+
+#site-info-tabs li{
+
+
+	list-style:none;
+
+
+	float:left;	
+
+
+	margin:20px;
+
+
+	width:auto;
+
+
+    color: white;
+
+
+    font-size: 23px;
+
+
+    padding: 0;	
+
+
+}
